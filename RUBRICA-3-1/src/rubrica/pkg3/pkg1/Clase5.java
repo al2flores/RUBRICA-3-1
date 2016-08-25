@@ -10,6 +10,8 @@ package rubrica.pkg3.pkg1;
  * @author Al2
  */
 public class Clase5 {
+    /*
+    public class MainClass {
 
     public static void main(String args[]) {
 
@@ -35,4 +37,6 @@ public class Clase5 {
 
     }
 
-}  
+}
+    */
+}
